@@ -10,7 +10,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
   flex-direction: column;
   overflow: auto;
 }
@@ -84,6 +83,7 @@ body {
   pointer-events: none;
   transform: rotate(-2deg);
 }
+
 
 
 
