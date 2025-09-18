@@ -12,7 +12,7 @@ body {
   align-items: center;
   height: 100vh;
   flex-direction: column;
-  overflow: hidden;
+  overflow: auto;
 }
 .intro {
   text-align: center;
@@ -84,6 +84,7 @@ body {
   pointer-events: none;
   transform: rotate(-2deg);
 }
+
 
 
 
