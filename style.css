@@ -60,7 +60,7 @@ body {
 }
 .letter p {
   margin-top: -55px;
-  overflow: hidden;
+  overflow: auto;
 }
 .letter::before {
   content: "";
@@ -84,4 +84,5 @@ body {
   pointer-events: none;
   transform: rotate(-2deg);
 }
+
 
