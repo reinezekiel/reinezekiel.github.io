@@ -1,5 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
-
+const message = `Happy 2nd Monthsary baby! ginawa ko tong letter na to para mabasa mo pa din kahit malayo ka. Today is our very special day and it’s hard to believe that it has been 2 months since we officially became a couple.\n\nEvery moment with you feels like magic. Every day spent with you is a blessing, and i am grateful for each and every moment we share.\n\nKahit anong mangyari, you will always have a special place in my heart. You will always be my love, my baby, my peace, my home and my happiness.\n\nWords can never justify my love and adoration for you. I Love You So Much!!!';
 const music = document.getElementById('bg-music');
 
 function showLetter() {
@@ -29,3 +28,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
